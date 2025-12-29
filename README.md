@@ -28,5 +28,5 @@ All progress is backed by GitHub commits and weekly updates.
 
 ## Author
 Jimish Ravat  
-LinkedIn: https://www.linkedin.com/in/jimishravat
-Portfolio: https://www.jimishravat.in
+- LinkedIn: https://www.linkedin.com/in/jimishravat
+- Portfolio: https://www.jimishravat.in
